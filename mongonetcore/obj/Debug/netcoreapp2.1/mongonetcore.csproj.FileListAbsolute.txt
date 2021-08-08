@@ -1,0 +1,15 @@
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\mongonetcore.deps.json
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\mongonetcore.runtimeconfig.json
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\mongonetcore.runtimeconfig.dev.json
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\mongonetcore.dll
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\bin\Debug\netcoreapp2.1\mongonetcore.pdb
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.csproj.AssemblyReference.cache
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.AssemblyInfoInputs.cache
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.AssemblyInfo.cs
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.csproj.CoreCompileInputs.cache
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.dll
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.pdb
+C:\Users\OUIAME\git\C#-mongodb-.net\mongonetcore\obj\Debug\netcoreapp2.1\mongonetcore.genruntimeconfig.cache
